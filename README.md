@@ -6,8 +6,8 @@
 
 1.  Open your terminal or command prompt.
 2.  Check if Node.js and npm are installed:
-    node -v
-    npm -v
+    * node -v
+    * npm -v
     
 3.  If not installed:
     *   Go to [https://nodejs.org/]
@@ -29,7 +29,7 @@
 
 1.  Open terminal and check Git:
     
-    git --version
+    * git --version
    
 2.  If not installed:
     *   Download from [https://git-scm.com/downloads]
