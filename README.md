@@ -39,7 +39,7 @@
 ## Step 2: Download the Project
 
 1.  Open your terminal and run:
-    git clone <your-repository-url>
+    git clone [https://github.com/NivethigaVeerasingam/Virtual_Pet_Adoption_Center.git]
     cd virtual-pet-adoption-center
    
 
