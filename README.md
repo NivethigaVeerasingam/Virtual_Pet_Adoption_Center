@@ -46,10 +46,10 @@
 ## Step 3: Backend Set Up
 
 1.  Navigate to the backend folder
-    cd backend
+    * cd backend
     
 2.  Install dependencies
-    npm install
+    * npm install
     
 
 ##  Step 4: Set Up Frontend
@@ -57,10 +57,10 @@
 1.  Navigate to the frontend folder (from the project root)
    
    If you are in backend/, type: cd ..
-    cd frontend
+    * cd frontend
    
 2.  Install frontend dependencies:
-    npm install
+    * npm install
     
 
 ##  Step 5: Run the Project
@@ -70,10 +70,10 @@
 1.  Open a terminal window/tab.
 2.  Navigate to the `backend` folder:
     
-    cd path/to/virtual-pet-adoption-center/backend
+   * cd path/to/virtual-pet-adoption-center/backend
    
 3.  Start the backend server:
-        npm start
+      * npm start
    
 4.  Look for output confirming the server is running (e.g., "Server is running on port 5000" and "Connected to database!"). The server typically runs on `http://localhost:5000`.
 
@@ -84,11 +84,11 @@
 1.  Open **another terminal** window/tab.
 2.  Navigate to the `frontend` folder:
     
-    cd path/to/virtual-pet-adoption-center/frontend
+    * cd path/to/virtual-pet-adoption-center/frontend
     
 3.  Start the frontend development server:
     
-    npm start
+    * npm start
     
 4.  Your application should automatically open in your default web browser at `http://localhost:3000`. If not, manually navigate to this URL.
 
