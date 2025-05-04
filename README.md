@@ -58,8 +58,7 @@
 1.  Navigate to the frontend folder (from the project root)
    
    If you are in backend/, type: cd .. 
-    
-    cd frontend
+    * cd frontend
    
 2.  Install frontend dependencies:
     * npm install
