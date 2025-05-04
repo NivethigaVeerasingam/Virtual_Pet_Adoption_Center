@@ -46,9 +46,10 @@
 ## Step 3: Backend Set Up
 
 1.  Navigate to the backend folder
+
     * cd backend
     
-2.  Install dependencies
+3.  Install dependencies
     * npm install
     
 
